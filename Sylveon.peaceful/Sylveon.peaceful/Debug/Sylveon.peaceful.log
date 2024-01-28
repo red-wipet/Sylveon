@@ -1,0 +1,24 @@
+﻿  Sylveon.peaceful.cpp
+C:\Users\mrsuperbuddy\source\repos\Sylveon.peaceful\Sylveon.peaceful\Sylveon.peaceful.cpp(170,7): warning C4552: "<": результат выражения не используется
+C:\Users\mrsuperbuddy\source\repos\Sylveon.peaceful\Sylveon.peaceful\Sylveon.peaceful.cpp(180,10): warning C4552: "<": результат выражения не используется
+C:\Users\mrsuperbuddy\source\repos\Sylveon.peaceful\Sylveon.peaceful\Sylveon.peaceful.cpp(185,10): warning C4552: "<": результат выражения не используется
+C:\Users\mrsuperbuddy\source\repos\Sylveon.peaceful\Sylveon.peaceful\Sylveon.peaceful.cpp(230,15): warning C4552: "<": результат выражения не используется
+C:\Users\mrsuperbuddy\source\repos\Sylveon.peaceful\Sylveon.peaceful\Sylveon.peaceful.cpp(241,49): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\Sylveon.peaceful\Sylveon.peaceful\Sylveon.peaceful.cpp(243,66): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\Sylveon.peaceful\Sylveon.peaceful\Sylveon.peaceful.cpp(245,66): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\Sylveon.peaceful\Sylveon.peaceful\Sylveon.peaceful.cpp(270,79): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\Sylveon.peaceful\Sylveon.peaceful\Sylveon.peaceful.cpp(272,81): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\Sylveon.peaceful\Sylveon.peaceful\Sylveon.peaceful.cpp(274,85): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\Sylveon.peaceful\Sylveon.peaceful\Sylveon.peaceful.cpp(276,85): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\Sylveon.peaceful\Sylveon.peaceful\Sylveon.peaceful.cpp(278,82): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\Sylveon.peaceful\Sylveon.peaceful\Sylveon.peaceful.cpp(381,14): warning C4244: инициализация: преобразование "int" в "FLOAT", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\Sylveon.peaceful\Sylveon.peaceful\Sylveon.peaceful.cpp(435,14): warning C4244: инициализация: преобразование "int" в "FLOAT", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\Sylveon.peaceful\Sylveon.peaceful\Sylveon.peaceful.cpp(489,73): warning C4293: >>: отрицательное или слишком большое смещение; поведение не определено
+C:\Users\mrsuperbuddy\source\repos\Sylveon.peaceful\Sylveon.peaceful\Sylveon.peaceful.cpp(489,14): warning C4244: инициализация: преобразование "int" в "FLOAT", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\Sylveon.peaceful\Sylveon.peaceful\Sylveon.peaceful.cpp(543,14): warning C4244: инициализация: преобразование "int" в "FLOAT", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\Sylveon.peaceful\Sylveon.peaceful\Sylveon.peaceful.cpp(615,14): warning C4244: инициализация: преобразование "int" в "FLOAT", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\Sylveon.peaceful\Sylveon.peaceful\Sylveon.peaceful.cpp(635,24): warning C4129: I: неизвестная escape-последовательность
+C:\Users\mrsuperbuddy\source\repos\Sylveon.peaceful\Sylveon.peaceful\Sylveon.peaceful.cpp(635,24): warning C4129: B: неизвестная escape-последовательность
+C:\Users\mrsuperbuddy\source\repos\Sylveon.peaceful\Sylveon.peaceful\Sylveon.peaceful.cpp(641,25): warning C4129: N: неизвестная escape-последовательность
+C:\Users\mrsuperbuddy\source\repos\Sylveon.peaceful\Sylveon.peaceful\Sylveon.peaceful.cpp(194): warning C4715: Hue: значение возвращается не при всех путях выполнения
+  Sylveon.peaceful.vcxproj -> C:\Users\mrsuperbuddy\source\repos\Sylveon.peaceful\Debug\Sylveon.peaceful.exe

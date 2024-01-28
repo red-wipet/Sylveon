@@ -1,0 +1,32 @@
+﻿  Sylveon.cpp
+C:\Users\mrsuperbuddy\source\repos\Sylveon\Sylveon\Sylveon.cpp(169,7): warning C4552: "<": результат выражения не используется
+C:\Users\mrsuperbuddy\source\repos\Sylveon\Sylveon\Sylveon.cpp(179,10): warning C4552: "<": результат выражения не используется
+C:\Users\mrsuperbuddy\source\repos\Sylveon\Sylveon\Sylveon.cpp(184,10): warning C4552: "<": результат выражения не используется
+C:\Users\mrsuperbuddy\source\repos\Sylveon\Sylveon\Sylveon.cpp(199,16): warning C4566: символ, представленный универсальным именем символа "\u00EB", невозможно представить в текущей кодовой странице (1251)
+C:\Users\mrsuperbuddy\source\repos\Sylveon\Sylveon\Sylveon.cpp(287,15): warning C4552: "<": результат выражения не используется
+C:\Users\mrsuperbuddy\source\repos\Sylveon\Sylveon\Sylveon.cpp(298,49): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\Sylveon\Sylveon\Sylveon.cpp(300,66): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\Sylveon\Sylveon\Sylveon.cpp(302,66): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\Sylveon\Sylveon\Sylveon.cpp(327,79): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\Sylveon\Sylveon\Sylveon.cpp(329,81): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\Sylveon\Sylveon\Sylveon.cpp(331,85): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\Sylveon\Sylveon\Sylveon.cpp(333,85): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\Sylveon\Sylveon\Sylveon.cpp(335,82): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\Sylveon\Sylveon\Sylveon.cpp(438,14): warning C4244: инициализация: преобразование "int" в "FLOAT", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\Sylveon\Sylveon\Sylveon.cpp(492,14): warning C4244: инициализация: преобразование "int" в "FLOAT", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\Sylveon\Sylveon\Sylveon.cpp(546,73): warning C4293: >>: отрицательное или слишком большое смещение; поведение не определено
+C:\Users\mrsuperbuddy\source\repos\Sylveon\Sylveon\Sylveon.cpp(546,14): warning C4244: инициализация: преобразование "int" в "FLOAT", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\Sylveon\Sylveon\Sylveon.cpp(600,14): warning C4244: инициализация: преобразование "int" в "FLOAT", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\Sylveon\Sylveon\Sylveon.cpp(672,14): warning C4244: инициализация: преобразование "int" в "FLOAT", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\Sylveon\Sylveon\Sylveon.cpp(692,24): warning C4129: T: неизвестная escape-последовательность
+C:\Users\mrsuperbuddy\source\repos\Sylveon\Sylveon\Sylveon.cpp(692,24): warning C4129: I: неизвестная escape-последовательность
+C:\Users\mrsuperbuddy\source\repos\Sylveon\Sylveon\Sylveon.cpp(692,24): warning C4129: C: неизвестная escape-последовательность
+C:\Users\mrsuperbuddy\source\repos\Sylveon\Sylveon\Sylveon.cpp(692,24): warning C4129: P: неизвестная escape-последовательность
+C:\Users\mrsuperbuddy\source\repos\Sylveon\Sylveon\Sylveon.cpp(698,25): warning C4129: T: неизвестная escape-последовательность
+C:\Users\mrsuperbuddy\source\repos\Sylveon\Sylveon\Sylveon.cpp(698,25): warning C4129: I: неизвестная escape-последовательность
+C:\Users\mrsuperbuddy\source\repos\Sylveon\Sylveon\Sylveon.cpp(698,25): warning C4129: C: неизвестная escape-последовательность
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 24 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  Sylveon.vcxproj -> C:\Users\mrsuperbuddy\source\repos\Sylveon\Release\Sylveon.exe
